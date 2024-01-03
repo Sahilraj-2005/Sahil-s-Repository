@@ -1,4 +1,4 @@
 # Sahil-s-Repository
 This is my first git repository
 <br>
-Author - Sahil Raj
+Author - Sahil Raj (NITK)
